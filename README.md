@@ -48,6 +48,9 @@
 
 ## Output:
 
+![Screenshot 2023-11-28 092601](https://github.com/Bhuvana23013531/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147125678/8b375a8a-618e-49c2-bddf-5e7b68e8d1ad)
+
+
 ### Name:BHUVANESHWARI M
 ### Register Number:23013531
 
